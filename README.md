@@ -5,12 +5,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in CSE (AIML)** at **NETAJI SUBHASH ENGINEERING COLLEGE, KOLKATA, WEST BENGAL**  
-- 🧑‍💻 Passionate **MERN Stack Developer** and AI/ML practitioner  
-- 🔍 Keen on exploring **Machine Learning**, **Deep Learning**, and **Data Analytics**  
-- 📊 Enthusiastic about leveraging data to create impactful ML solutions  
-- 🛠 Actively engaged in **Web Development** and **Machine Learning projects**  
-- 🌱 Continuously enhancing skills by learning new technologies, frameworks, and industry best practices  
+- 🎓 Currently pursuing **B.Tech in CSE (AIML)** at **NETAJI SUBHASH ENGINEERING COLLEGE, KOLKATA, WEST BENGAL**  
+- 💻 Passionate **MERN Stack Developer** and AI/ML enthusiast  
+- 🔬 Keen on exploring **Machine Learning**, **Deep Learning**, and **Data Analytics**  
+- 📈 Enthusiastic about leveraging data to create impactful ML solutions  
+- 🚀 Actively engaged in **Web Development** and **Machine Learning projects**  
+- 📚 Continuously enhancing skills by learning new technologies, frameworks, and industry best practices  
 
 ---
 
@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🛠 Tools & Platforms
@@ -77,10 +77,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=faizanuddinsk56@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect with me for collaboration or discussion.*
+⭐️ *Exploring ideas, building solutions — let's connect and create something amazing together!*
